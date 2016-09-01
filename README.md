@@ -1,2 +1,3 @@
-# ControladorVGA
-Controlador VGA en FPGA Nexys 4.   Proyecto introductorio. Lenguaje HDL Verilog.
+
+Toda la información necesaria para utilizar estos módulos de forma adecuada está detallada en el blog de Proyectos de Electrónica
+en Blogger.
